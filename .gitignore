@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.idea
+cat_dog_data
+cat_dog_data_small
+*.h5
+aclImdb
+glove.6B
+jena_climate
