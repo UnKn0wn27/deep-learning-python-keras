@@ -1,4 +1,5 @@
 import os, shutil
+from keras.datasets import reuters
 
 original_dataset_dir = 'cat_dog_data'
 base_dir = 'cat_dog_data_small'
